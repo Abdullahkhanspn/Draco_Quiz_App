@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Quiz App</string>
+    <string name="movie_quiz_app">Movie Quiz App</string>
+    <string name="button">Button</string>
+    <string name="open">OPEN</string>
+    <string name="shang_chi_and_the_legend_of_the_ten_rings">Shang-Chi And The Legend Of The Ten Rings</string>
+    <string name="welcome_to_quiz_app">Welcome To Quiz App</string>
+    <string name="draco_quiz">Draco Quiz</string>
+    <string name="welcome_to_draco_quiz">Welcome To Draco Quiz</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="shang_chi_and_the_legend_of_the_ten_rings_release_in_2021">Shang-Chi And The Legend Of The Ten Rings - Release in 2021 ?</string>
+</resources>
